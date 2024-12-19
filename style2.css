@@ -1,0 +1,42 @@
+
+#details{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.parag{
+    display: block;
+    margin-bottom: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+}
+
+.puud{
+    margin-bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    text-align: justify;
+}
+/* .puud img{
+    max-width: 100%;
+    display: block;
+    margin-top: 10px;
+} */
+
+.puud a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.puud a:hover {
+    text-decoration: underline;
+    color: #004d99;
+}

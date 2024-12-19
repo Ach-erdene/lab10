@@ -1,0 +1,21 @@
+#list{
+    display: flex;
+    flex-direction: column;
+}
+.bnbn{
+    display: flex;
+}
+.bobo{
+    display: block;
+    margin: 20px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    width: 80%;
+}
+.baba{
+    display: block;
+    margin: 20px;
+}
+.hev{
+    margin: 20px;
+}
